@@ -42,3 +42,16 @@ ___
 |Precision-Recall| [Link](https://github.com/Poornartha/Machine-Learning-Specialization/tree/master/Classification/Precision-Recall)|
 |Scaling Machine Learning| [Link](https://github.com/Poornartha/Machine-Learning-Specialization/tree/master/Classification/Scaling%20ML)|
 ____
+
+## Clustering
+>Almost all Algorithms in this course are implemented from scratch.
+
+|Topic|Links|
+|-----|-----|
+|Nearest Neighbour Clustering| [Link](https://github.com/Poornartha/Machine-Learning-Specialization/tree/master/Clustering/NearestNeighbour)|
+|K-Means Clustering| [Link](https://github.com/Poornartha/Machine-Learning-Specialization/tree/master/Clustering/KMeansClustering)|
+|Image Clustering (Mixture Models)| [Link](https://github.com/Poornartha/Machine-Learning-Specialization/tree/master/Clustering/MixtureModels/Image%20Clustering%20-%20EM%20Implementation)|
+|Text Clustering (Mixture Models)| [Link](https://github.com/Poornartha/Machine-Learning-Specialization/tree/master/Clustering/MixtureModels/Image%20Clustering%20-%20EM%20Implementation)|
+|Latent Dirichlet Allocation| [Link](https://github.com/Poornartha/Machine-Learning-Specialization/tree/master/Clustering/LDA)|
+|Hierarchical Clusering| [Link](https://github.com/Poornartha/Machine-Learning-Specialization/tree/master/Clustering/HierarchicalClustering)|
+____
