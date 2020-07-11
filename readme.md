@@ -28,3 +28,17 @@ ___
 |kNN and Kernel Regression| [Link](https://github.com/Poornartha/Machine-Learning-Specialization/tree/master/Regression/kNN%20and%20Kernal%20Regression)|
 
 ___
+
+## Classification
+>Almost all Algorithms in this course are implemented from scratch.
+
+|Topic|Links|
+|-----|-----|
+|Logistic Regression| [Link](https://github.com/Poornartha/Machine-Learning-Specialization/tree/master/Classification/Logistic%20Regression)|
+|Logistic Regression with Penalty| [Link](https://github.com/Poornartha/Machine-Learning-Specialization/tree/master/Classification/Logistic%20Regression%20with%20L2%20Penalty%20(Scratch))|
+|Decision Trees| [Link](https://github.com/Poornartha/Machine-Learning-Specialization/tree/master/Classification/Decision%20Trees)|
+|Overfitting in Decision Trees| [Link](https://github.com/Poornartha/Machine-Learning-Specialization/tree/master/Classification/Overfitting%20in%20Decision%20Trees)|
+|Boosting (AdaBoost)| [Link](https://github.com/Poornartha/Machine-Learning-Specialization/tree/master/Classification/Boosting)|
+|Precision-Recall| [Link](https://github.com/Poornartha/Machine-Learning-Specialization/tree/master/Classification/Precision-Recall)|
+|Scaling Machine Learning| [Link](https://github.com/Poornartha/Machine-Learning-Specialization/tree/master/Classification/Scaling%20ML)|
+____
