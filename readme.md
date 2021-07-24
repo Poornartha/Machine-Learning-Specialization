@@ -4,7 +4,8 @@ ___
 
 ## Machine Learning Foundations
 
-| Topic |   
+| Topic |  
+|-----|
 |Sentiment Analysis|
 |Song Recommender| 
 |Document Retrival| 
